@@ -5,4 +5,3 @@ def alphabetize(arr)
     phrase.chars.map { |char| alphabet.index(char)}
   end
 end
-end
